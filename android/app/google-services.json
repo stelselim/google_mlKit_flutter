@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "915306946203",
+    "project_id": "mlfirst-b36db",
+    "storage_bucket": "mlfirst-b36db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915306946203:android:222b228167e708ba08303e",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915306946203-3s16d056sv3aqfgkspj2c0ft369glb5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkZeW7HFwqDr5gzXsfO2FXqwpHLUFx6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915306946203-3s16d056sv3aqfgkspj2c0ft369glb5r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915306946203-10gkrenj6u5e1s7sb9sio9p76he61kag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imagetotext"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
